@@ -1,0 +1,13 @@
+{
+    "name": "volantis/xcore",
+    "type": "theme",
+    "description": "An AHK app theme inspired by Xbox.",
+    "website": "https://volantis.dev",
+    "authors": [{
+            "name": "Ben McClure",
+            "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/darkcore": "^1.0 || dev-main"
+    }
+}
